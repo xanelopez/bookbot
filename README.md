@@ -1,2 +1,2 @@
 # bookbot
-boot.dev course work
+BookBot is my first project!
